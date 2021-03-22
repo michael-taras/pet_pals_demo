@@ -1,4 +1,4 @@
-from pet_pals_demo.app import db
+import db
 
 # db.drop_all()
 db.create_all()
